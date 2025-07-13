@@ -17,7 +17,7 @@ https://github.com/MachangDoniel<br />
 
 
 The App is to be used to store data of a patient with the goal of analysing heart rate and also receive comment who doesn't understand the risk.
-<br />To guide you we present 'CardiacRecorder'<br />
+<br />To guide you we present 'CardiacRecorder'(Care for Love)<br />
 <br />
 <br />
 ![1](https://github.com/MachangDoniel/Heart/assets/121412263/48c8b8f2-edb4-465c-8e29-86ad7a485277)
